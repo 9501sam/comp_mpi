@@ -1,0 +1,3 @@
+slurmstepd: error: execve(): /home/u5125195/comp_mpi/./mandelbrot: No such file or directory
+slurmstepd: error: execve(): /home/u5125195/comp_mpi/./mandelbrot: No such file or directory
+srun: error: cpn3602: tasks 0-1: Exited with exit code 2
